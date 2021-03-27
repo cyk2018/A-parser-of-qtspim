@@ -6,7 +6,7 @@ This is a system to transfer the content which you saved from qtspim to  heximal
 
 ## How can I use it?
 
-1. You should save a file from qtspim by save log file button.![image-20210327224227206](C:\Users\chen\AppData\Roaming\Typora\typora-user-images\image-20210327224227206.png)
+1. You should save a file from qtspim by save log file button.[image-20210327224227206.png (1170×824) (raw.githubusercontent.com)](https://raw.githubusercontent.com/cyk2018/pictures/main/image-20210327224227206.png)
 
 2. You should save the file at the same path with this system. And I suggest that you name it as code. Attention that you should only check the text segment checkbox.
 
